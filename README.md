@@ -23,7 +23,7 @@ The focus of this solution is clarity, maintainability, and adherence to standar
 ## Project Structure
 
 ```
-aqa-automation-test/
+project_assessment/
 │
 ├── pages/
 │   ├── base_page.py
